@@ -20,5 +20,7 @@ examples/src/index.js
 
 **/*.js
 **/*.d.ts
+!/dist/**/*.js
+!/dist/**/*.d.ts
 
 package-lock.json
